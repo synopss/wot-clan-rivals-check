@@ -1,4 +1,4 @@
-# Clan Rival Check
+# World of Tanks Clan Rival Check
 This script is able to check every single confirmed teams registered to play a World of Tanks tournament
 
 ## Requirements
@@ -6,6 +6,8 @@ To work properly, this script needs you to install those libs:
 - texttable
 - urllib3
 - tqdm
+
+Made in Python 3.9
 
 ## Utilisation
 ```
